@@ -31,6 +31,7 @@ Parce que je suis un passionné et j'aime apprendre !
 
 ### Travaillons ensemble
 Je travaille avec des petites et moyennes entreprises et des associations.
+
 Je suis disponible pour collaborer à **temps partiel** ou mieux en **télétravail**.
 
 ### Retrouvez-moi sur
