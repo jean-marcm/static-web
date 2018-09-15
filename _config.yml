@@ -6,4 +6,4 @@ description: Développeur Web
 show_downloads: false
 show_excerpts: false # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
