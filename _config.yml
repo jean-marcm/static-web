@@ -3,7 +3,7 @@ author: Jean-Marc MONTOUT
 email: montout.jeanmarc@gmail.com
 logo: assets/jean-marc-small.jpg
 description: [:email:](mailto:jeanmarc.montout@outlook.fr)
-show_downloads: true
+show_downloads: false
 show_excerpts: false # set to false to remove excerpts on the homepage
 
 theme: jekyll-theme-minimal
