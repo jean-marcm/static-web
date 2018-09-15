@@ -4,4 +4,7 @@
 @import "{{ site.theme }}";
 header h1 {
   font-size: 25px;
- }
+}
+header .view {
+  display: none;
+}
