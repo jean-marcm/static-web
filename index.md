@@ -16,6 +16,16 @@
 - Git
 - Sktech
 
-*J'utilise aussi Photoshop et InDesign puisque je travaille avec des graphistes*
+J'utilise aussi
+- Photoshop et InDesign puisque je travaille avec des graphistes
+- Fusionbase
+- AppInventor - pour prototyper mes applications mobiles
+- Google App Script
+
+## Mes projets de formation
+Car je suis un passionné et j'aime apprendre !
+_ Dévelopement Android (avec Udacity)
+- Vue.js
+- Certification Developer Amazon Web Services (AWS). Pour l'instant, je suis au premier niveau (Cloud Practioner)
 
 ### Travaillons ensemble
