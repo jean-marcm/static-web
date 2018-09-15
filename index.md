@@ -1,5 +1,5 @@
 # Bienvenue
-## Je suis Jean-Marc MONTOUT intégrateur, développeur web
+#### Je suis Jean-Marc MONTOUT intégrateur, développeur web
 
 ### Formation
 - **Java** : formation de programmateur (au CNAM).
