@@ -23,15 +23,16 @@ J'utilise aussi
 - Google Apps Script
 
 ## Mes projets de formation
-Car je suis un passionné et j'aime apprendre !
+Parce que je suis un passionné et j'aime apprendre !
 
-_ Dévelopement Android (avec Udacity)
+- Dévelopement Android (avec Udacity)
 - Vue.js
 - Certification Developer Amazon Web Services (AWS). Pour l'instant, je suis au premier niveau (Cloud Practioner)
 
 ### Travaillons ensemble
-
+Je travaille avec des petites et moyennes entreprises et des associations.
+Je suis disponible pour collaborarer à **temps partiel** ou mieux en **télétravail**.
 
 ### Retrouvez-moi sur
 - [CodePen](https://codepen.io/jmarcm)
-- LinkedIn
+- [LinkedIn](www.linkedin.com/in/jean-marc-montout-9155ab17)
