@@ -12,20 +12,26 @@
 - PHP/MySQL
 - JavaScript, jQuery
 - jQuery mobile
-- WordPress (y compris création de plugin) ;
+- WordPress (y compris création de plugin)
 - Git
 - Sktech
 
 J'utilise aussi
 - Photoshop et InDesign puisque je travaille avec des graphistes
-- Fusionbase
+- Firebase
 - AppInventor - pour prototyper mes applications mobiles
-- Google App Script
+- Google Apps Script
 
 ## Mes projets de formation
 Car je suis un passionné et j'aime apprendre !
+
 _ Dévelopement Android (avec Udacity)
 - Vue.js
 - Certification Developer Amazon Web Services (AWS). Pour l'instant, je suis au premier niveau (Cloud Practioner)
 
 ### Travaillons ensemble
+
+
+### Retrouvez-moi sur
+- [CodePen](https://codepen.io/jmarcm)
+- LinkedIn
